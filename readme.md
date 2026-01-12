@@ -10,5 +10,10 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o usi b
 
 ### 🗄️ Estrutura do Projeto
 
+### ➕ Adicionando conteudo Remotamente
+
+---
+
+### ❔ Como Trabalhar com Git
 
 
